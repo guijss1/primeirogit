@@ -1,3 +1,3 @@
-let nome = "begins";
+let nome = "beginss";
 
 console.log(nome);
